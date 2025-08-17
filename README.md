@@ -1,0 +1,1 @@
+A website for our newly planned company, 3 amigos safety. Supposed to be a simple site for people to look up or contact us for merchandise. No e-commerce or other advanced functionality at this stage. 
